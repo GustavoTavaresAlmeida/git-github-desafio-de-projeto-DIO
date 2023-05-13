@@ -3,7 +3,7 @@ Desafio de projeto da DIO sobre como criar um repositório no GIT/GITHUB
 
 ## Status
 
- Passos aplicados com sucesso  :heavy_check_mark:
+ Passos aplicados com sucesso
 
 ## Comandos do desafio
 
